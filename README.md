@@ -17,7 +17,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on En un proyecto grupal construyendo una wallet usando react-native
+- 🔭 I’m currently working on in a group project building a wallet usando react-native
 
 - 🌱 I’m currently learning React-native 
 
